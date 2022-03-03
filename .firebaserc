@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "serdok-pokemon-go": {
+      "hosting": {
+        "serdok-pokemon-go": [
+          "serdok-pokemon-go"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "serdok-pokemon-go"
+  }
+}
